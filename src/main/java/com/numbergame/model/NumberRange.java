@@ -1,5 +1,10 @@
 package com.numbergame.model;
 
+/**
+ * Model class to hold the current generated number and range.
+ * @author Chandru
+ *
+ */
 public class NumberRange {
 	private int currentValue;
 	private int maxValue;

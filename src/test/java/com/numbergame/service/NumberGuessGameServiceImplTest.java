@@ -7,8 +7,8 @@ import org.junit.Test;
 import com.numbergame.model.Answer;
 import com.numbergame.model.NumberRange;
 
-public class GameServiceImplTest {
-	GameServiceImpl gameService=new GameServiceImpl();
+public class NumberGuessGameServiceImplTest {
+	NumberGuessGameServiceImpl gameService=new NumberGuessGameServiceImpl();
 
 	@Test
 	public void testGenerateRandomNumber() {
